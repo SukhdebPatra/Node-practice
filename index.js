@@ -3,6 +3,8 @@ const path=require('path');
 const dirPath=path.join(__dirname,'CurdFileSystem')
 const filepath=`${dirPath}/fruit.txt`;
 
+
+//create file
 // fs.writeFileSync(filepath,'This is a simple text File');
 
 //read file
